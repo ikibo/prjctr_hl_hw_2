@@ -2,7 +2,9 @@
 Projector - High Load - Home Work 2
 
 Load test was making requests to home page of NGINX and Apache server
+
 Number of requests = 1 000 000
+
 Paralelism = 100
 
 Target machine:
